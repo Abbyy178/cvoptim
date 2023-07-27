@@ -36,7 +36,7 @@ const handler = async (req: Request): Promise<Response> => {
     max_tokens: 1000,
     stream: true,
     n: 1,
-    api_key：‘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’,
+    api_key,
   }
 
   const stream = await OpenAIStream(payload);
