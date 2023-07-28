@@ -179,34 +179,7 @@ const Home: NextPage = () => {
           <br></br>
           <div className="mt-1 items-center space-x-3">
             
-            <span className="text-slate-200">`
-              <a
-                className="text-blue-500 hover:text-blue-700"
-                href="http://wz.aidaohang.com.cn/?f=ailvsuo"
-                target="_blank"
-                rel="noopener noreferrer"
-              >AI导航</a>   
-            </span>
-            
-             <span className="text-slate-200">
-               &nbsp;&nbsp;
-              <a
-                className="text-blue-500 hover:text-blue-700"
-                href="http://dz.weurl.com.cn/go.html?q=aichat_yy"
-                target="_blank"
-                rel="noopener noreferrer"
-              >高级版</a>     
-            </span>
-            
-               <span className="text-slate-200">
-               &nbsp;&nbsp;
-              <a
-                className="text-blue-500 hover:text-blue-700"
-                href="http://dz.imurl.com.cn/go.html?q=gptyyqun"
-                target="_blank"
-                rel="noopener noreferrer"
-              >交流群</a>         
-            </span>
+        
           
             
        
