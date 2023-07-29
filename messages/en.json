@@ -3,7 +3,7 @@
     "title": "AI简历助手",
     "description1": "描述你的项目经历",
     "description2": "一键润色",
-    "placeholder": "比如:在xx项目中担任xx角色，进行了xxx，最终完成了xxx",
+    "placeholder": "比如:“在xx项目中担任xx角色，进行了xxx，最终完成了xxx。”注意：润色细节和相关数据仅供参考",
     "simplifierButton": "咨询AI简历助手",
     "switchLocale": "",
     "deployWiki": "已废弃",
