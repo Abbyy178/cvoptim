@@ -5,7 +5,7 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
-          <link rel="icon" href="/ailvsuo1.ico" />
+          <link rel="icon" href="/aicon2.ico" />
           <meta
             name="description"
             content="Simplify your chat content in seconds."
